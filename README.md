@@ -30,11 +30,10 @@ Farklı makine öğrenmesi modellerinin performanslarını karşılaştırarak e
 Eğer startup yatırımları ve tahminleme üzerine ilginiz varsa, projeyi fork'layabilir veya geliştirmek için katkıda bulunabilirsiniz! 🎯
 
 📩 Görüş ve önerilerinizi paylaşmayı unutmayın!
+![Figure_1](https://github.com/user-attachments/assets/5da6dd72-668f-484d-ad4c-1fb89aef150f)
 
 🚀 Startup Investment & Growth Prediction 📈
 This project utilizes Machine Learning techniques to predict startup valuation. We used Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn for data analysis, visualization, and modeling.
-
-![Figure_1](https://github.com/user-attachments/assets/5da6dd72-668f-484d-ad4c-1fb89aef150f)
 
 📌 Project Steps:
 ✅ Data Analysis & Missing Value Handling
@@ -61,6 +60,12 @@ Place the dataset in the "data" folder.
 Run the scripts and test the prediction models.
 📊 Results
 We compared various machine learning models to determine the best prediction approach. Additionally, we estimated the future valuation of a new startup using the selected model.
+
+If you're interested in startup investment and prediction models, feel free to fork this project or contribute! 🎯
+
+📩 Don't hesitate to share your thoughts and feedback!
+
+
 
 If you're interested in startup investment and prediction models, feel free to fork this project or contribute! 🎯
 
